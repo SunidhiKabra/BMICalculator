@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass02</string>
+    <string name="textViewAge">Age</string>
+    <string name="textViewWeight">Weight</string>
+    <string name="textViewHeight">Height</string>
+    <string name="editTextAge">Years</string>
+    <string name="editTextWeight">Pounds</string>
+    <string name="editTextFeet">Feet</string>
+    <string name="editTextInches">Inches</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="textViewResult">Result</string>
+    <string name="textViewBMILabel">BMI = </string>
+    <string name="textViewRangeLabel">Normal BMI Range: 18.5 - 25 </string>
+</resources>
